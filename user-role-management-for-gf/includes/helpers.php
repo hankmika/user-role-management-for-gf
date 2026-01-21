@@ -17,7 +17,7 @@ function gfrm_caps() {
         'gravityforms_create_form'    => __( 'Create forms', 'gfrm' ),
         'gravityforms_edit_forms'     => __( 'Edit forms', 'gfrm' ),
         'gravityforms_delete_forms'   => __( 'Delete forms', 'gfrm' ),
-        'gravityforms_view_settings'  => __( 'View settings', 'gfrm' ),
+        'gravityforms_view_settings'  => __( 'Access settings', 'gfrm' ),
     ];
 }
 
