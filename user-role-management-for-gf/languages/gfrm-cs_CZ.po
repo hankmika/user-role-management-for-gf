@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gfrm 1.0.0\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: gfrm\n"
+
+msgid "View entries"
+msgstr "Zobrazit záznamy"
+
+msgid "Edit entries"
+msgstr "Upravit záznamy"
+
+msgid "Export entries"
+msgstr "Exportovat záznamy"
+
+msgid "Create forms"
+msgstr "Vytvářet formuláře"
+
+msgid "Edit forms"
+msgstr "Upravovat formuláře"
+
+msgid "Delete forms"
+msgstr "Mazat formuláře"
+
+msgid "View settings"
+msgstr "Zobrazit nastavení"
+
+msgid "GF Role Manager"
+msgstr "Správce rolí GF"
+
+msgid "You do not have permission to manage these settings."
+msgstr "Nemáte oprávnění spravovat tato nastavení."
+
+msgid "You do not have permission to view this page."
+msgstr "Nemáte oprávnění zobrazit tuto stránku."
+
+msgid "Permissions updated."
+msgstr "Oprávnění byla aktualizována."
+
+msgid "Only Administrators and Super Admins can manage these permissions. Administrator access to Gravity Forms cannot be restricted."
+msgstr "Tato oprávnění mohou spravovat pouze administrátoři a superadministrátoři. Přístup administrátorů ke Gravity Forms nelze omezit."
+
+msgid "Roles without wp-admin access are hidden to prevent granting capabilities where they cannot be used."
+msgstr "Role bez přístupu do wp-admin jsou skryty, aby se nepřidávaly schopnosti, které nelze využít."
+
+msgid "Gravity Forms Role Access"
+msgstr "Přístup rolí ke Gravity Forms"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Save Permissions"
+msgstr "Uložit oprávnění"

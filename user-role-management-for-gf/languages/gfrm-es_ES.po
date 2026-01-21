@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gfrm 1.0.0\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: gfrm\n"
+
+msgid "View entries"
+msgstr "Ver entradas"
+
+msgid "Edit entries"
+msgstr "Editar entradas"
+
+msgid "Export entries"
+msgstr "Exportar entradas"
+
+msgid "Create forms"
+msgstr "Crear formularios"
+
+msgid "Edit forms"
+msgstr "Editar formularios"
+
+msgid "Delete forms"
+msgstr "Eliminar formularios"
+
+msgid "View settings"
+msgstr "Ver ajustes"
+
+msgid "GF Role Manager"
+msgstr "Gestor de roles GF"
+
+msgid "You do not have permission to manage these settings."
+msgstr "No tienes permiso para gestionar estos ajustes."
+
+msgid "You do not have permission to view this page."
+msgstr "No tienes permiso para ver esta página."
+
+msgid "Permissions updated."
+msgstr "Permisos actualizados."
+
+msgid "Only Administrators and Super Admins can manage these permissions. Administrator access to Gravity Forms cannot be restricted."
+msgstr "Solo los administradores y superadministradores pueden gestionar estos permisos. El acceso de administradores a Gravity Forms no se puede restringir."
+
+msgid "Roles without wp-admin access are hidden to prevent granting capabilities where they cannot be used."
+msgstr "Los roles sin acceso a wp-admin se ocultan para evitar otorgar capacidades que no podrían usar."
+
+msgid "Gravity Forms Role Access"
+msgstr "Acceso de roles a Gravity Forms"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Save Permissions"
+msgstr "Guardar permisos"
