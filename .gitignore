@@ -1,0 +1,57 @@
+# OS / System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Node / frontend tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Composer / PHP tooling
+/vendor/
+composer.lock
+
+# Build / dist output
+/dist/
+/build/
+/assets/build/
+/assets/dist/
+
+# Logs
+*.log
+
+# Env / local config
+.env
+.env.local
+.env.*.local
+
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+
+# PHPUnit / testing
+.phpunit.result.cache
+/tests/tmp/
+
+# Cache
+.cache/
+.tmp/
+
+# Zip packages
+*.zip
+
+# Mac metadata
+.AppleDouble
+.LSOverride
