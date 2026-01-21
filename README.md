@@ -1,6 +1,6 @@
 # User Role Management for Gravity Forms
 
-Admin-only UI to grant specific Gravity Forms permissions (view, edit, create, export, etc.) to existing roles that already have wp-admin access, while keeping administrators’ access intact and blocking non-admin users from managing these settings.
+A WordPress plugin that adds and Admin-only UI to grant specific Gravity Forms permissions (view, edit, create, export, etc.) to existing roles that already have wp-admin access, while keeping administrators’ access intact and blocking non-admin users from managing these settings.
 
 ## Why this plugin exists
 

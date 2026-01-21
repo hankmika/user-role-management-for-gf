@@ -104,3 +104,4 @@ function gfrm_apply_saved_caps() {
         }
     }
 }
+add_action( 'admin_init', 'gfrm_apply_saved_caps' );

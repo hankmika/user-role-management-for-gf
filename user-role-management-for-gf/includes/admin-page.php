@@ -98,6 +98,7 @@ function gfrm_render_admin_page() {
     $caps  = gfrm_caps();
     $roles = gfrm_get_assignable_roles();
     $saved = get_option( 'gfrm_role_caps', [] );
+    $saved = is_array( $saved ) ? $saved : [];
 
     include GFRM_PLUGIN_DIR . 'views/admin-page.php';
 }
