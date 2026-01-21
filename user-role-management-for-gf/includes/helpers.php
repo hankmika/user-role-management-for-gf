@@ -12,6 +12,7 @@ function gfrm_caps() {
     return [
         'gravityforms_view_entries'   => __( 'View entries', 'gfrm' ),
         'gravityforms_edit_entries'   => __( 'Edit entries', 'gfrm' ),
+        'gravityforms_delete_entries' => __( 'Delete entries', 'gfrm' ),
         'gravityforms_export_entries' => __( 'Export entries', 'gfrm' ),
         'gravityforms_create_form'    => __( 'Create forms', 'gfrm' ),
         'gravityforms_edit_forms'     => __( 'Edit forms', 'gfrm' ),

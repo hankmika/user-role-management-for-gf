@@ -15,7 +15,7 @@ This plugin narrows the problem: it only exposes Gravity Forms capabilities, hid
 
 - Adds a management capability `gfrm_manage_caps` and grants it to Administrators.
 - Registers an admin page under “GF Role Manager” for users with `gfrm_manage_caps`.
-- Lets you toggle the following caps per role: `gravityforms_view_entries`, `gravityforms_edit_entries`, `gravityforms_export_entries`, `gravityforms_create_form`, `gravityforms_edit_forms`, `gravityforms_delete_forms`, `gravityforms_view_settings`.
+- Lets you toggle the following caps per role: `gravityforms_view_entries`, `gravityforms_edit_entries`, `gravityforms_delete_entries`, `gravityforms_export_entries`, `gravityforms_create_form`, `gravityforms_edit_forms`, `gravityforms_delete_forms`, `gravityforms_view_settings`.
 - Saves choices to the `gfrm_role_caps` option and applies them to roles when settings are saved (also on activation).
 - Prevents non-admin roles (no `read`/wp-admin access) from appearing to avoid granting caps where they cannot be used.
 
